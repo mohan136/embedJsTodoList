@@ -30,5 +30,5 @@ app.get("/about", function (req, res){
     res.render("about");
 });
 app.listen(port, function () {
-    console.log("server started on port 3000");
+    console.log("server started on port");
 });
